@@ -8,4 +8,8 @@
     <PackageReference Include="SoapCore" Version="1.1.0.9" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Ivory.GSO.WebService.Repository\Ivory.GSO.WebService.Repository.csproj" />
+  </ItemGroup>
+
 </Project>

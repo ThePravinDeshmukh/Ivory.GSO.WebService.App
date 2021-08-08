@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using Ivory.GSO.WebService.Repository.Model;
+using System.Collections.Generic;
 using System.ServiceModel;
 namespace Ivory.GSO.WebService.App
 {
@@ -10,6 +11,9 @@ namespace Ivory.GSO.WebService.App
 
         [OperationContract]
         IEnumerable<MMFParameter> MMF(string userName, string password);
+
+        [OperationContract]
+        ActivePowerProductionResponse ActivePowerProduction(string userName, string password);
 
         [OperationContract]
         void XmlMethod(System.Xml.Linq.XElement xml);
