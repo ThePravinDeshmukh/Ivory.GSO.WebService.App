@@ -1,0 +1,27 @@
+
+DEV:
+1) Source code project name and EXE name : Ivory.GSO.WebService.App
+2) Dotnet version : dnc3.1 or .net5.0 (preferred)
+3) Main function : To allow requests to this SOAP XML WEB API Server, which returns data that are transformed from multiple sources.
+4) Endpoint : https://<hostname>/api/gsowebservice.asmx
+5) SOAP Actions/Methods names (Web Service Function names):
+	- ActivePowerProduction
+	- DayAhead
+	- WeekAhead
+	- FourMonthsAhead
+	- FourMonthsAhead1
+	- FourMonthsAhead2
+	- FourMonthsAhead3
+	- FourMonthsAhead4
+6) Date time format (in response xml) : YYYY-mm-dd HH:MM:ss
+7) Time blocks : 15 minutes each day -> 00:00:00 to 00:15:00 is 1, 00:15:00 to 00:30:00 is 2, 00:30:00 to 00:45:00 is 3, etc. (Can refer to the csv file as provided)
+
+
+
+Brief Stories (In order of delivery/priority):
+1) User able to verify this program is running in the VPS. (not yet deployed to windows service, or IIS yet)
+2) User able to obtain xml data from this program using the provided request formats.
+3) This Program able to transform data from source, into the required output response format above.
+
+
+

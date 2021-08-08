@@ -1,0 +1,11 @@
+D:\Code\Git\thepravindeshmukh\SoapSever\Ivory.GSO.WebService.BusinessLogic\bin\Debug\net5.0\Ivory.GSO.WebService.BusinessLogic.deps.json
+D:\Code\Git\thepravindeshmukh\SoapSever\Ivory.GSO.WebService.BusinessLogic\bin\Debug\net5.0\Ivory.GSO.WebService.BusinessLogic.dll
+D:\Code\Git\thepravindeshmukh\SoapSever\Ivory.GSO.WebService.BusinessLogic\bin\Debug\net5.0\ref\Ivory.GSO.WebService.BusinessLogic.dll
+D:\Code\Git\thepravindeshmukh\SoapSever\Ivory.GSO.WebService.BusinessLogic\bin\Debug\net5.0\Ivory.GSO.WebService.BusinessLogic.pdb
+D:\Code\Git\thepravindeshmukh\SoapSever\Ivory.GSO.WebService.BusinessLogic\obj\Debug\net5.0\Ivory.GSO.WebService.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Git\thepravindeshmukh\SoapSever\Ivory.GSO.WebService.BusinessLogic\obj\Debug\net5.0\Ivory.GSO.WebService.BusinessLogic.AssemblyInfoInputs.cache
+D:\Code\Git\thepravindeshmukh\SoapSever\Ivory.GSO.WebService.BusinessLogic\obj\Debug\net5.0\Ivory.GSO.WebService.BusinessLogic.AssemblyInfo.cs
+D:\Code\Git\thepravindeshmukh\SoapSever\Ivory.GSO.WebService.BusinessLogic\obj\Debug\net5.0\Ivory.GSO.WebService.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Code\Git\thepravindeshmukh\SoapSever\Ivory.GSO.WebService.BusinessLogic\obj\Debug\net5.0\Ivory.GSO.WebService.BusinessLogic.dll
+D:\Code\Git\thepravindeshmukh\SoapSever\Ivory.GSO.WebService.BusinessLogic\obj\Debug\net5.0\ref\Ivory.GSO.WebService.BusinessLogic.dll
+D:\Code\Git\thepravindeshmukh\SoapSever\Ivory.GSO.WebService.BusinessLogic\obj\Debug\net5.0\Ivory.GSO.WebService.BusinessLogic.pdb

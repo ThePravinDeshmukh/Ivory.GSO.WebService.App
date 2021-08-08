@@ -1,0 +1,10 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" 										
+xmlns:ns="LSS.solar.webservice"										
+    <soapenv:Header/>										
+    <soapenv:Body>										
+        <ns:ActivePowerProduction>										
+			<ma:userName>user1</ma:userName>		
+			<ma:password>password1</ma:password>		
+		</ns:ActivePowerProduction>										
+    </soapenv:Body>										
+</soapenv:Envelope>	

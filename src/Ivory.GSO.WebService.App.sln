@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ivory.GSO.WebService.App", "Ivory.GSO.WebService.App.csproj", "{E981B89D-8A00-4D91-9003-0DC834AA5C23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ivory.GSO.WebService.App", "Ivory.GSO.WebService.App\Ivory.GSO.WebService.App.csproj", "{E981B89D-8A00-4D91-9003-0DC834AA5C23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ivory.GSO.WebService.Repository", "..\Ivory.GSO.WebService.Repository\Ivory.GSO.WebService.Repository.csproj", "{3D056585-44CF-4311-9E28-B891E571395B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ivory.GSO.WebService.Repository", "Ivory.GSO.WebService.Repository\Ivory.GSO.WebService.Repository.csproj", "{3D056585-44CF-4311-9E28-B891E571395B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ivory.GSO.WebService.BusinessLogic", "..\Ivory.GSO.WebService.BusinessLogic\Ivory.GSO.WebService.BusinessLogic.csproj", "{B84CC7B5-6529-4E7E-978E-A93DCB3638F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ivory.GSO.WebService.BusinessLogic", "Ivory.GSO.WebService.BusinessLogic\Ivory.GSO.WebService.BusinessLogic.csproj", "{B84CC7B5-6529-4E7E-978E-A93DCB3638F6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusinessLogic", "BusinessLogic", "{D63F9670-654F-4934-AAA3-1E9E84CBFE0D}"
 EndProject

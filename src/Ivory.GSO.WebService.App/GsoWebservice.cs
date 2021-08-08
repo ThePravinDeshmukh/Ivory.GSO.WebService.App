@@ -49,7 +49,7 @@ public class GsoWebservice : IGsoWebservice
 
         XNamespace soapNameSpace
           = XNamespace.Get("https://webservice.meteologica.com/api/MeteologicaDataExchangeService.php");
-                var document = XDocument.Parse(File.ReadAllText("../docs/forecasted_data.xml"));
+                var document = XDocument.Parse(File.ReadAllText("../../docs/forecasted_data.xml"));
 
                 var soapMessage = document?.Root?.Descendants()?.Where(p =>
                             p.Name.LocalName.Equals("forecastData") // && p.Name.Namespace == soapNameSpace

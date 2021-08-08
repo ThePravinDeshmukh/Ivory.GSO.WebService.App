@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ivory.GSO.WebService.BusinessLogic/1.0.0": {
+        "runtime": {
+          "Ivory.GSO.WebService.BusinessLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ivory.GSO.WebService.BusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
